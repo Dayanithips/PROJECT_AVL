@@ -1,0 +1,15 @@
+KITE-X PYTHON TRANSITION INTELLIGENCE AND VALIDATION
+
+True apex time: 0.367613 s
+True apex height: 0.642150 m
+Estimated apex time: 0.366404 s
+Estimated apex height: 0.641892 m
+Transition: ACCEPTED
+Rotor command: 1
+Validation: PASS
+Detection rate: 100.0000 %
+Mean apex-time error: 0.001810 s
+Mean apex-height error: 0.001219 m
+Transition success rate: 100.0000 %
+PID final attitude: -0.000010 deg
+PID final angular rate: -0.000027 deg/s
